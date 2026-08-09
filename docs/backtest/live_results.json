@@ -66,5 +66,13 @@
       "confidence": null,
       "accuracy": null
     }
-  ]
+  ],
+  "thresholds": {
+    "basic": 10,
+    "calibration": 700
+  },
+  "threshold_met": {
+    "basic": true,
+    "calibration": false
+  }
 }
