@@ -1,10 +1,10 @@
 {
   "n_published": 30,
-  "n_graded": 2,
-  "accuracy": 1.0,
-  "brier": 0.43171712000000007,
-  "logloss": 0.7682423998655324,
-  "ece": 0.53485,
+  "n_graded": 21,
+  "accuracy": 0.47619047619047616,
+  "brier": 0.5777832433333333,
+  "logloss": 0.9780785871728661,
+  "ece": 0.18544285714285713,
   "reliability": [
     {
       "bin": 0,
@@ -26,27 +26,27 @@
     },
     {
       "bin": 3,
-      "n": 0,
-      "confidence": null,
-      "accuracy": null
+      "n": 5,
+      "confidence": 0.38436,
+      "accuracy": 0.0
     },
     {
       "bin": 4,
-      "n": 1,
-      "confidence": 0.4301,
-      "accuracy": 1.0
+      "n": 11,
+      "confidence": 0.4636272727272727,
+      "accuracy": 0.5454545454545454
     },
     {
       "bin": 5,
-      "n": 1,
-      "confidence": 0.5002,
-      "accuracy": 1.0
+      "n": 3,
+      "confidence": 0.5358666666666667,
+      "accuracy": 0.6666666666666666
     },
     {
       "bin": 6,
-      "n": 0,
-      "confidence": null,
-      "accuracy": null
+      "n": 2,
+      "confidence": 0.6599999999999999,
+      "accuracy": 1.0
     },
     {
       "bin": 7,
