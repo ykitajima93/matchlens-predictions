@@ -1,0 +1,642 @@
+[
+  {
+    "fixture_id": 19720051,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 09:00:00",
+    "kickoff_jst": "2026-08-22 18:00:00",
+    "home": "奈良クラブ",
+    "away": "レノファ山口FC",
+    "home_team_id": 62994,
+    "away_team_id": 14680,
+    "p_home": 0.3332,
+    "p_draw": 0.265,
+    "p_away": 0.4018,
+    "expected_goals": {
+      "home": 1.21,
+      "away": 1.36
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.126
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.1041
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.0929
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0855
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0763
+      },
+      {
+        "home": 0,
+        "away": 2,
+        "prob": 0.0706
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.0563
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720052,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 09:00:00",
+    "kickoff_jst": "2026-08-22 18:00:00",
+    "home": "FC大阪",
+    "away": "FC琉球",
+    "home_team_id": 60031,
+    "away_team_id": 18271,
+    "p_home": 0.5488,
+    "p_draw": 0.2444,
+    "p_away": 0.2068,
+    "expected_goals": {
+      "home": 1.66,
+      "away": 0.91
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.127
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1158
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.1051
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0959
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.07
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "prob": 0.058
+      },
+      {
+        "home": 3,
+        "away": 1,
+        "prob": 0.0529
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720053,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 09:00:00",
+    "kickoff_jst": "2026-08-22 18:00:00",
+    "home": "松本山雅FC",
+    "away": "愛媛FC",
+    "home_team_id": 11122,
+    "away_team_id": 17789,
+    "p_home": 0.3859,
+    "p_draw": 0.2656,
+    "p_away": 0.3485,
+    "expected_goals": {
+      "home": 1.32,
+      "away": 1.24
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1263
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1015
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0954
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0836
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0786
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.0672
+      },
+      {
+        "home": 0,
+        "away": 2,
+        "prob": 0.0594
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720047,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 10:00:00",
+    "kickoff_jst": "2026-08-22 19:00:00",
+    "home": "鹿児島ユナイテッドFC",
+    "away": "FC岐阜",
+    "home_team_id": 18266,
+    "away_team_id": 3810,
+    "p_home": 0.4996,
+    "p_draw": 0.2542,
+    "p_away": 0.2462,
+    "expected_goals": {
+      "home": 1.56,
+      "away": 1.01
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1208
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1194
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.094
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.0929
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0776
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0611
+      },
+      {
+        "home": 3,
+        "away": 1,
+        "prob": 0.0487
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720048,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 10:00:00",
+    "kickoff_jst": "2026-08-22 19:00:00",
+    "home": "ロアッソ熊本",
+    "away": "AC長野パルセイロ",
+    "home_team_id": 17788,
+    "away_team_id": 17793,
+    "p_home": 0.5818,
+    "p_draw": 0.2363,
+    "p_away": 0.1819,
+    "expected_goals": {
+      "home": 1.72,
+      "away": 0.85
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1321
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.1138
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1117
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0962
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "prob": 0.0653
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0648
+      },
+      {
+        "home": 3,
+        "away": 1,
+        "prob": 0.0552
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720050,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 10:00:00",
+    "kickoff_jst": "2026-08-22 19:00:00",
+    "home": "ガイナーレ鳥取",
+    "away": "福島ユナイテッドFC",
+    "home_team_id": 17810,
+    "away_team_id": 18262,
+    "p_home": 0.4435,
+    "p_draw": 0.2619,
+    "p_away": 0.2947,
+    "expected_goals": {
+      "home": 1.44,
+      "away": 1.13
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1245
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1107
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0898
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0863
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.0798
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0701
+      },
+      {
+        "home": 2,
+        "away": 2,
+        "prob": 0.0505
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720055,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 10:00:00",
+    "kickoff_jst": "2026-08-22 19:00:00",
+    "home": "ザスパ群馬",
+    "away": "レイラック滋賀FC",
+    "home_team_id": 10411,
+    "away_team_id": 63036,
+    "p_home": 0.3801,
+    "p_draw": 0.2657,
+    "p_away": 0.3542,
+    "expected_goals": {
+      "home": 1.31,
+      "away": 1.26
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1264
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1006
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0964
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0829
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0794
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.066
+      },
+      {
+        "home": 0,
+        "away": 2,
+        "prob": 0.0605
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720056,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-22 10:00:00",
+    "kickoff_jst": "2026-08-22 19:00:00",
+    "home": "栃木SC",
+    "away": "ギラヴァンツ北九州",
+    "home_team_id": 17808,
+    "away_team_id": 17795,
+    "p_home": 0.5328,
+    "p_draw": 0.2479,
+    "p_away": 0.2193,
+    "expected_goals": {
+      "home": 1.62,
+      "away": 0.94
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1245
+      },
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1176
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.1011
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0955
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0725
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0555
+      },
+      {
+        "home": 3,
+        "away": 0,
+        "prob": 0.0547
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720054,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-23 09:00:00",
+    "kickoff_jst": "2026-08-23 18:00:00",
+    "home": "SC相模原",
+    "away": "ツエーゲン金沢",
+    "home_team_id": 18264,
+    "away_team_id": 17803,
+    "p_home": 0.468,
+    "p_draw": 0.259,
+    "p_away": 0.2731,
+    "expected_goals": {
+      "home": 1.49,
+      "away": 1.08
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1231
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1145
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0919
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.0854
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0825
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0662
+      },
+      {
+        "home": 2,
+        "away": 2,
+        "prob": 0.0494
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  },
+  {
+    "fixture_id": 19720049,
+    "league": "J3リーグ",
+    "league_id": 1025,
+    "season": "2026/2027",
+    "round": "3",
+    "kickoff_utc": "2026-08-23 10:00:00",
+    "kickoff_jst": "2026-08-23 19:00:00",
+    "home": "高知ユナイテッドSC",
+    "away": "カマタマーレ讃岐",
+    "home_team_id": 63140,
+    "away_team_id": 9610,
+    "p_home": 0.4364,
+    "p_draw": 0.2625,
+    "p_away": 0.301,
+    "expected_goals": {
+      "home": 1.43,
+      "away": 1.14
+    },
+    "score_dist_top": [
+      {
+        "home": 1,
+        "away": 1,
+        "prob": 0.1248
+      },
+      {
+        "home": 1,
+        "away": 0,
+        "prob": 0.1096
+      },
+      {
+        "home": 2,
+        "away": 1,
+        "prob": 0.0891
+      },
+      {
+        "home": 0,
+        "away": 1,
+        "prob": 0.0874
+      },
+      {
+        "home": 2,
+        "away": 0,
+        "prob": 0.0782
+      },
+      {
+        "home": 0,
+        "away": 0,
+        "prob": 0.0767
+      },
+      {
+        "home": 1,
+        "away": 2,
+        "prob": 0.0711
+      },
+      {
+        "home": 2,
+        "away": 2,
+        "prob": 0.0508
+      }
+    ],
+    "model_version": "elo-dc-0.1.0",
+    "generated_at_utc": "2026-08-19 12:53:05"
+  }
+]
