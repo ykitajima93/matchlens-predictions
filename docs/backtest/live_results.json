@@ -1,10 +1,10 @@
 {
   "n_published": 90,
-  "n_graded": 59,
-  "accuracy": 0.5423728813559322,
-  "brier": 0.5869867101694916,
-  "logloss": 0.987036962605132,
-  "ece": 0.09880508474576268,
+  "n_graded": 61,
+  "accuracy": 0.5573770491803278,
+  "brier": 0.5770167804918033,
+  "logloss": 0.9733161441657425,
+  "ece": 0.10977540983606557,
   "reliability": [
     {
       "bin": 0,
@@ -38,9 +38,9 @@
     },
     {
       "bin": 5,
-      "n": 10,
-      "confidence": 0.54394,
-      "accuracy": 0.7
+      "n": 12,
+      "confidence": 0.5477166666666666,
+      "accuracy": 0.75
     },
     {
       "bin": 6,
@@ -1047,8 +1047,8 @@
       "p_draw": 0.2389,
       "p_away": 0.2115,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-08-19 12:53:05",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-03.json"
@@ -1063,8 +1063,8 @@
       "p_draw": 0.2308,
       "p_away": 0.1857,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-08-19 12:53:05",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-03.json"
