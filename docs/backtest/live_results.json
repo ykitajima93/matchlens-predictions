@@ -1,10 +1,10 @@
 {
   "n_published": 180,
-  "n_graded": 129,
-  "accuracy": 0.49612403100775193,
-  "brier": 0.6076445864341086,
-  "logloss": 1.0159007015143149,
-  "ece": 0.07267054263565888,
+  "n_graded": 144,
+  "accuracy": 0.4930555555555556,
+  "brier": 0.6103103373611112,
+  "logloss": 1.0191465802497635,
+  "ece": 0.058738194444444405,
   "reliability": [
     {
       "bin": 0,
@@ -26,27 +26,27 @@
     },
     {
       "bin": 3,
-      "n": 28,
-      "confidence": 0.38476785714285716,
-      "accuracy": 0.2857142857142857
+      "n": 32,
+      "confidence": 0.38568125,
+      "accuracy": 0.3125
     },
     {
       "bin": 4,
-      "n": 67,
-      "confidence": 0.44864029850746273,
-      "accuracy": 0.4925373134328358
+      "n": 74,
+      "confidence": 0.44931081081081087,
+      "accuracy": 0.47297297297297297
     },
     {
       "bin": 5,
-      "n": 27,
-      "confidence": 0.5486592592592593,
-      "accuracy": 0.6666666666666666
+      "n": 29,
+      "confidence": 0.5467827586206897,
+      "accuracy": 0.6896551724137931
     },
     {
       "bin": 6,
-      "n": 7,
-      "confidence": 0.6466142857142857,
-      "accuracy": 0.7142857142857143
+      "n": 9,
+      "confidence": 0.6419777777777778,
+      "accuracy": 0.6666666666666666
     },
     {
       "bin": 7,
@@ -2167,8 +2167,8 @@
       "p_draw": 0.264,
       "p_away": 0.4189,
       "pick": "A",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": true,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2183,8 +2183,8 @@
       "p_draw": 0.255,
       "p_away": 0.2502,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": false,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2199,8 +2199,8 @@
       "p_draw": 0.2652,
       "p_away": 0.3366,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2215,8 +2215,8 @@
       "p_draw": 0.2293,
       "p_away": 0.1638,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2231,8 +2231,8 @@
       "p_draw": 0.2628,
       "p_away": 0.2603,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J2/round-05.json"
@@ -2247,8 +2247,8 @@
       "p_draw": 0.2563,
       "p_away": 0.3042,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-09-03 10:53:55",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-06.json"
@@ -2263,8 +2263,8 @@
       "p_draw": 0.271,
       "p_away": 0.3421,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J2/round-05.json"
@@ -2279,8 +2279,8 @@
       "p_draw": 0.2643,
       "p_away": 0.2694,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J2/round-05.json"
@@ -2295,8 +2295,8 @@
       "p_draw": 0.2709,
       "p_away": 0.3909,
       "pick": "A",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": true,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J2/round-05.json"
@@ -2311,8 +2311,8 @@
       "p_draw": 0.263,
       "p_away": 0.2616,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": false,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J2/round-05.json"
@@ -2327,8 +2327,8 @@
       "p_draw": 0.2175,
       "p_away": 0.1379,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2343,8 +2343,8 @@
       "p_draw": 0.2472,
       "p_away": 0.2167,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2359,8 +2359,8 @@
       "p_draw": 0.2654,
       "p_away": 0.3424,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": false,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2375,8 +2375,8 @@
       "p_draw": 0.264,
       "p_away": 0.3179,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": false,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
@@ -2391,8 +2391,8 @@
       "p_draw": 0.2529,
       "p_away": 0.2403,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-08-31 13:06:01",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-05.json"
