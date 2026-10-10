@@ -1,10 +1,10 @@
 {
   "n_published": 300,
-  "n_graded": 260,
-  "accuracy": 0.5115384615384615,
-  "brier": 0.6114072135384615,
-  "logloss": 1.0205252508588845,
-  "ece": 0.06384038461538463,
+  "n_graded": 264,
+  "accuracy": 0.5113636363636364,
+  "brier": 0.6092986637121213,
+  "logloss": 1.0176411587239365,
+  "ece": 0.0655405303030303,
   "reliability": [
     {
       "bin": 0,
@@ -26,27 +26,27 @@
     },
     {
       "bin": 3,
-      "n": 57,
-      "confidence": 0.38381228070175444,
-      "accuracy": 0.3508771929824561
+      "n": 58,
+      "confidence": 0.38359310344827585,
+      "accuracy": 0.3448275862068966
     },
     {
       "bin": 4,
-      "n": 138,
-      "confidence": 0.44718115942028985,
-      "accuracy": 0.5072463768115942
+      "n": 139,
+      "confidence": 0.4471589928057554,
+      "accuracy": 0.5035971223021583
     },
     {
       "bin": 5,
-      "n": 53,
-      "confidence": 0.5454396226415095,
-      "accuracy": 0.6415094339622641
+      "n": 54,
+      "confidence": 0.5464425925925925,
+      "accuracy": 0.6481481481481481
     },
     {
       "bin": 6,
-      "n": 12,
-      "confidence": 0.6382916666666666,
-      "accuracy": 0.75
+      "n": 13,
+      "confidence": 0.6371307692307693,
+      "accuracy": 0.7692307692307693
     },
     {
       "bin": 7,
@@ -4247,8 +4247,8 @@
       "p_draw": 0.2244,
       "p_away": 0.1524,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-10-07 12:55:20",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-10.json"
@@ -4263,8 +4263,8 @@
       "p_draw": 0.2596,
       "p_away": 0.3711,
       "pick": "A",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": false,
       "generated_at_utc": "2026-09-30 12:10:06",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-09.json"
@@ -4279,8 +4279,8 @@
       "p_draw": 0.2265,
       "p_away": 0.1739,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-09-30 12:10:06",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-09.json"
@@ -4295,8 +4295,8 @@
       "p_draw": 0.2618,
       "p_away": 0.2941,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-10-07 12:55:20",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-10.json"
