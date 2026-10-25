@@ -1,10 +1,10 @@
 {
   "n_published": 390,
-  "n_graded": 350,
-  "accuracy": 0.4942857142857143,
-  "brier": 0.6121122364571429,
-  "logloss": 1.022097148298296,
-  "ece": 0.050096857142857144,
+  "n_graded": 361,
+  "accuracy": 0.48476454293628807,
+  "brier": 0.6149477179778393,
+  "logloss": 1.0262183388845927,
+  "ece": 0.046114681440443235,
   "reliability": [
     {
       "bin": 0,
@@ -26,27 +26,27 @@
     },
     {
       "bin": 3,
-      "n": 77,
-      "confidence": 0.3835922077922078,
-      "accuracy": 0.33766233766233766
+      "n": 80,
+      "confidence": 0.3830075,
+      "accuracy": 0.325
     },
     {
       "bin": 4,
-      "n": 183,
-      "confidence": 0.4469393442622951,
-      "accuracy": 0.48633879781420764
+      "n": 187,
+      "confidence": 0.4467893048128342,
+      "accuracy": 0.48128342245989303
     },
     {
       "bin": 5,
-      "n": 69,
-      "confidence": 0.5472666666666667,
-      "accuracy": 0.6086956521739131
+      "n": 72,
+      "confidence": 0.5461694444444444,
+      "accuracy": 0.5833333333333334
     },
     {
       "bin": 6,
-      "n": 20,
-      "confidence": 0.636385,
-      "accuracy": 0.75
+      "n": 21,
+      "confidence": 0.6378904761904762,
+      "accuracy": 0.7619047619047619
     },
     {
       "bin": 7,
@@ -5687,8 +5687,8 @@
       "p_draw": 0.2049,
       "p_away": 0.127,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-10-19 12:34:47",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-12.json"
@@ -5703,8 +5703,8 @@
       "p_draw": 0.2714,
       "p_away": 0.3635,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": false,
       "generated_at_utc": "2026-10-22 11:24:43",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J2/round-13.json"
@@ -5719,8 +5719,8 @@
       "p_draw": 0.2714,
       "p_away": 0.3661,
       "pick": "A",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-10-22 11:24:43",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J2/round-13.json"
@@ -5735,8 +5735,8 @@
       "p_draw": 0.2444,
       "p_away": 0.207,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": false,
       "generated_at_utc": "2026-10-22 11:24:43",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-13.json"
@@ -5751,8 +5751,8 @@
       "p_draw": 0.263,
       "p_away": 0.4311,
       "pick": "A",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": false,
       "generated_at_utc": "2026-10-22 11:24:43",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-13.json"
@@ -5767,8 +5767,8 @@
       "p_draw": 0.2537,
       "p_away": 0.2441,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-10-22 11:24:43",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-13.json"
@@ -5783,8 +5783,8 @@
       "p_draw": 0.2579,
       "p_away": 0.2666,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": true,
       "generated_at_utc": "2026-10-22 11:24:43",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J3/round-13.json"
@@ -5799,8 +5799,8 @@
       "p_draw": 0.2584,
       "p_away": 0.3299,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-10-19 12:34:47",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-12.json"
@@ -5815,8 +5815,8 @@
       "p_draw": 0.2596,
       "p_away": 0.3728,
       "pick": "A",
-      "result": null,
-      "hit": null,
+      "result": "H",
+      "hit": false,
       "generated_at_utc": "2026-10-19 12:34:47",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-12.json"
@@ -5831,8 +5831,8 @@
       "p_draw": 0.2465,
       "p_away": 0.2415,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "A",
+      "hit": false,
       "generated_at_utc": "2026-10-19 12:34:47",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-12.json"
@@ -5847,8 +5847,8 @@
       "p_draw": 0.2562,
       "p_away": 0.3024,
       "pick": "H",
-      "result": null,
-      "hit": null,
+      "result": "D",
+      "hit": false,
       "generated_at_utc": "2026-10-19 12:34:47",
       "model_version": "elo-dc-0.1.0",
       "source": "predictions/2026-2027/J1/round-12.json"
